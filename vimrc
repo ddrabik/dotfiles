@@ -23,6 +23,11 @@ filetype indent plugin on
 " Enable syntax highlighting
 syntax on
 
+set background=dark
+let g:solarized_termcolors=256
+colorscheme solarized
+
+
 "------------------------------------------------------------
 " Must have options {{{1
 "
