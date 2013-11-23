@@ -89,6 +89,9 @@ set t_vb=
 
 set number
 
+" Alternate screen. Stops vim from showing the output of a file after quitting
+" vim.
+set t_ti=""
 
 "------------------------------------------------------------
 " Indentation options {{{1
@@ -97,8 +100,8 @@ set number
 
 " Indentation settings for using 2 spaces instead of tabs.
 " Do not change 'tabstop' from its default value of 8 with this setup.
-set shiftwidth=2
-set softtabstop=2
+set shiftwidth=4
+set softtabstop=4
 set expandtab
 
 "------------------------------------------------------------
