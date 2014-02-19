@@ -1,5 +1,13 @@
 *~
+.DS_Store
+
+# Sublime Text 2 files
 sftp-config.json
 *.sublime-project
 *.sublime-workspace
-.DS_Store
+
+# Codekit files
+-ck.js
+
+# Kaleidoscope files
+*.orig
