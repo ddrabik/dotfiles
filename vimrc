@@ -89,10 +89,6 @@ set t_vb=
 
 set number
 
-" Alternate screen. Stops vim from showing the output of a file after quitting
-" vim.
-set t_ti=""
-
 "------------------------------------------------------------
 " Indentation options {{{1
 "
