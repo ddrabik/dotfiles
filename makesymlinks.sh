@@ -11,8 +11,11 @@ olddir=~/dotfiles_old             # old dotfiles backup directory
 
 # list of files/folders to symlink in homedir
 files="vimrc
+bashrc
 bash_aliases
+bash_exports
 gitconfig
+bash_profile
 gitignore_global"
 
 #########
