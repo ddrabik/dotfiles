@@ -1,5 +1,5 @@
 # VSCode files
-*.code-workspace
+*.code_workspace
 
 # Kaleidoscope files
 *.orig
